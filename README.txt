@@ -4,9 +4,10 @@ Steps to run:
     b) Maven must be installed properly (follow maven documentation)
     c) Make sure that access from your laptop to public maven repository is present
     d) Install chrome or firefox browser (by default framework will use chrome browser)
+    e) Download project from github
 
 2) To run all tests from command line (terminal), run command: mvn clean test
-
+Execute the command inside root project folder (/traderev-e2e-tests)
 
 Multi-browsers:
 Framework supports multi-browsers, by default it will use chrome.
